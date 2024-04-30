@@ -41,6 +41,7 @@
     padding: 24px 0;
 }.estudante{
     padding: 24px 0;
+    background-color: #CEA4CA;
 }
 .estudante-imagem{
     width: 120px;
@@ -55,3 +56,15 @@
     text-align: center;
     padding: 16px 0;
 }
+
+.estudante-div-geral{
+    display: flex;
+    justify-content: center;
+}
+.rodape{
+    background-color: #000000;
+    text-align: center;
+    justify-content: center;
+    color:rgb(255, 255, 255);
+}
+.estudante-titulo{}
